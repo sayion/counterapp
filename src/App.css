@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(9, 9, 33);
+}
+
+.container {
+  margin-left: 30vw;
+ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:white;
+}
+.h1{
+    
+}
+.h2{
+    margin-left:13vw;
+    font-size:35px;
+}
+.btn{
+    margin-left:3vw;
+}
+.h3{
+    margin-left: 15vw;
+}
